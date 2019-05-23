@@ -1,6 +1,6 @@
 #######################################
 
-			GIT CHEATSHEET
+	GIT CHEATSHEET
 
 #######################################
 
@@ -71,3 +71,14 @@ git diff
 
 git pull origin master
 git push origin master  
+
+
+# Create Workflow
+
+git branch <branchname>
+git checkout <branchname>
+
+
+
+
+
